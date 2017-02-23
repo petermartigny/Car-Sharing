@@ -1,4 +1,4 @@
-# Car Sharing Analysis
+# Car Sharing Project
 
 The dataset used here contains car sharing offers from drivers, during several months of service.
 The goals of this project is to understand what will affect whether an offer will lead to a success (someone will share the ride) or a failure (no one shares the ride).
